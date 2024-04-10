@@ -1,3 +1,4 @@
+package Challange1;
 
 import java.util.HashMap;
 import java.util.Map;
